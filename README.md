@@ -10,10 +10,11 @@
 
 ## 紫色方块
 
-![紫色方块](./figure/紫色方块.png)
+![紫色方块](https://i.loli.net/2021/04/06/x2PeClBM8a9VvLf.png)
 
 ---
 
 ## 深蓝简约
 
-![深蓝简约](./figure/深蓝简约.png)
+![深蓝简约](https://i.loli.net/2021/04/06/HEpm2OAXy98oYLe.png)
+
